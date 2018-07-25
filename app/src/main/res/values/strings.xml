@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Test user</string>
+    <string name="nav_header_subtitle">№1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="main">Main</string>
+    <string name="exit">Exit</string>
+    <string name="emptyFields">Some of required fields are empty or wrong</string>
+    <string name="field">Field</string>
+</resources>

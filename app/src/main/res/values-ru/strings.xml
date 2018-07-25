@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="action_settings">Настройки</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="main">Главная</string>
+    <string name="exit">Выйти</string>
+    <string name="emptyFields">Некоторые введенные данные пустые или неверные</string>
+    <string name="field">Поле</string>
+</resources>
